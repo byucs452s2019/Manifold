@@ -21,7 +21,7 @@ Since Pico Labs is not-for-profit, and open-source, there will be no attempt to 
 Third party app developers may adopt a for-profit model, with their apps available for purchase.
 
 ## Legal
-Manifold includes a privacy policy, but has no end-user license agreement nor service level agreement.
+Manifold includes a privacy policy, but has no end-user license agreement (EULA) nor service level agreement (SLA).
 
 Since it is open source, others may clone or fork and establish their own policies and agreements.
 
